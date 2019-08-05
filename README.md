@@ -25,3 +25,8 @@ Organizar estudos sobre angular 1.v
       12. data binding
       13. template angular    
 
+### Leituras externas
+
+| assunto | links |
+| --- | --- | 
+| `MVC in angular world` | [leitura 1](https://scotch.io/tutorials/mvc-in-an-angular-world) |
